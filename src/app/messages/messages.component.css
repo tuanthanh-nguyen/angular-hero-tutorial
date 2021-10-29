@@ -1,0 +1,16 @@
+h2 {
+    color: green;
+    font-weight: bold;    
+}
+button {
+  margin-top: 20px;
+  background-color: #eee;
+  padding: 1rem;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+.message {
+    margin-top: 10px;
+    font-size: 1rem;
+    color: red;
+}
